@@ -1,0 +1,10 @@
+src/main
+src/*.err
+src/Mercury/
+.build/
+main
+
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
